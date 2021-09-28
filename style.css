@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(Green,greenyellow,yellow,pink,orange,yellow,lavender);
+}
+
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Enter_name{
+    height: 20px;
+    width: 90px;
+    border-radius: 3px;
+    background-image: linear-gradient(pink,orange,yellow);
+    text-align: center;
+    text-emphasis-color: black;
+}
+
+#Search_name{
+    height: 20px;
+    width: 90px;
+    border-radius: 3px;
+    background-image: linear-gradient(pink,orange,yellow);
+    text-align: center;
+    text-emphasis-color: black;
+}
